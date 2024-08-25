@@ -1,0 +1,11 @@
+# pandas: Powerful data analysis and manipulation library
+pandas==2.0.3
+
+# numpy: Fundamental package for scientific computing with Python
+numpy==1.25.2
+
+# scipy: Library for scientific and technical computing
+scipy==1.11.2
+
+# scikit-learn: Simple and efficient tools for data mining and data analysis
+scikit-learn==1.3.0
